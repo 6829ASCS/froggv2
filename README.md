@@ -17,9 +17,11 @@ Mr frogg is as frog as frogs get, how could you not love him?
 
 ![Screenshot of PCB editor with front silkscreen layer not hidden](https://github.com/user-attachments/assets/3f161c5b-d0de-44a5-8092-3041ade1c25b)
 
-3. 3D view
+3. 3D view (front and back)
 
-![Screenshot of 3D view of PCB](https://github.com/user-attachments/assets/5c91915b-b591-4421-a9b4-50d1c7d07dba)
+![Screenshot of front 3D view of PCB](https://github.com/user-attachments/assets/5c91915b-b591-4421-a9b4-50d1c7d07dba)
+![Screenshot of back 3D view of PCB](https://github.com/user-attachments/assets/4dde6de9-d193-4a0e-8f7c-d7f2d4af7e3c)
+
 
 ## BOM
 - 1x Battery holder
