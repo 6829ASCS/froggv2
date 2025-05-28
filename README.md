@@ -3,7 +3,7 @@ Frog-shaped keychain, with two LEDs that turn on when a button is pushed and dim
 
 This was my first time creating a PCB or even working with electronics so it was great fun and an awesome learning opportunity. :D
 
-Mr frogg is as frog as frogs get, how could you not love him?
+Mr froggs is as frog as frogs get, how could you not love him?
 
 ## Schematic
 ![Screenshot of schematic editor](https://github.com/user-attachments/assets/21ccaf5e-0221-4e16-bcd3-fa0bd4643e0f)
