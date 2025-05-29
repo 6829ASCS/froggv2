@@ -30,7 +30,7 @@ Mr froggs is as frog as frogs get, how could you not love him?
 - 1x 10uF Capacitor
 - 1x NPN Transistor (2N3904)
 - 3x 220Ω Resistor
-- 1x 4.7KΩ Resistor
+- 1x 47KΩ Resistor
 - 3x LEDs
 - 1x Push Button
 
