@@ -1,32 +1,37 @@
 # froggv2
-Frog-shaped keychain, with two LEDs that turn on when a button is pushed and dim out when the button is let go of, thanks to a capacitor in parallel with the LEDs.
+Frog-shaped keychain, with two LEDs that turn on when a button is pushed and dim out when the button is let go of, thanks to a capacitor in parallel with the LEDs. Also has an LED that turns on in the dark.
 
 This was my first time creating a PCB or even working with electronics so it was great fun and an awesome learning opportunity. :D
 
 Mr froggs is as frog as frogs get, how could you not love him?
 
 ## Schematic
-![Screenshot of schematic editor](https://github.com/user-attachments/assets/21ccaf5e-0221-4e16-bcd3-fa0bd4643e0f)
+
+![](https://github.com/user-attachments/assets/f5d1531c-ebf8-46e0-880e-aac62daaf1ee)
 
 ## PCB
 1. with front silkscreen layer hidden
 
-![](https://github.com/user-attachments/assets/38367959-70a4-4deb-8b2a-70bda39c13bc)
+![Screenshot 2025-05-29 140827](https://github.com/user-attachments/assets/c7263165-c156-4508-a667-2e6955b35837)
 
 2. with front silkscreen layer shown
 
-![](https://github.com/user-attachments/assets/a0936696-8977-456d-9673-d7f5cad2b5a5)
+![Screenshot 2025-05-29 140818](https://github.com/user-attachments/assets/5860f484-3958-4e3a-86cb-00f1a38cd4ab)
+
 
 3. 3D view (front and back)
 
-![Screenshot of front 3D view of PCB](https://github.com/user-attachments/assets/5c91915b-b591-4421-a9b4-50d1c7d07dba)
-![Screenshot of back 3D view of PCB](https://github.com/user-attachments/assets/4dde6de9-d193-4a0e-8f7c-d7f2d4af7e3c)
+![Screenshot 2025-05-29 140837](https://github.com/user-attachments/assets/aa0a273f-b418-4e6b-933b-2b4838104646)
+![Screenshot 2025-05-29 140847](https://github.com/user-attachments/assets/e8071024-a7d6-4b3b-aff4-b406526ca853)
+
 
 ## BOM
 - 1x Battery holder
 - 1x 10uF Capacitor
-- 2x 220 Resistor
-- 2x LEDs
+- 1x NPN Transistor (2N3904)
+- 3x 220Ω Resistor
+- 1x 4.7KΩ Resistor
+- 3x LEDs
 - 1x Push Button
 
 Made by *`@Aly K`* on slack, as part of http://solder.hackclub.com
